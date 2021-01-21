@@ -1,5 +1,5 @@
 # InfiniteCavernGeneration3D
- Infinite cavern generation made with the marching cubes algorithim, using K.jpg's OpenSimplex 2, smooth variant ("SuperSimplex").
+ Infinite cavern generation made with the marching cubes algorithm, using K.jpg's OpenSimplex 2, smooth variant ("SuperSimplex").
 
 This is a infinite cavern generator, that creates and updates chunks as you move.
 
